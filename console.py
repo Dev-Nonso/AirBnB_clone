@@ -38,7 +38,7 @@ class AirBnBCommand(cmd.Cmd):
         prompt (str): The command prompt.
     """
 
-    prompt = "(AirBnbB) "
+    prompt = "(hbnb) "
     __classes = {
             "BaseModel",
             "User",
